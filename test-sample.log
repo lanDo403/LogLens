@@ -1,0 +1,500 @@
+2026-05-25 10:00:01 INFO database connection opened from 169.254.10.20
+2026-05-25 10:01:15 INFO connection timeout from 192.168.1.10
+2026-05-25 10:02:59 INFO accepted publickey for eve from 1.1.1.1
+2026-05-25 10:01:58 ERROR rate limit triggered for 192.168.1.77
+2026-05-25 10:03:33 WARN configuration reload requested
+2026-05-25 10:05:31 WARN connection timeout from 192.168.1.25
+2026-05-25 10:03:13 INFO file upload attempt by mallory from 172.31.255.10
+2026-05-25 10:06:19 WARN disk usage check completed
+2026-05-25 10:05:21 INFO user victor logged in from 192.168.1.11
+2026-05-25 10:09:01 INFO file upload attempt by wendy from 198.51.100.42
+2026-05-25 10:13:01 INFO database connection opened from 999.10.10.10
+2026-05-25 10:13:02 DEBUG user charlie logged in from 192.168.1.25
+2026-05-25 10:06:49 INFO database connection opened from 8.8.8.8
+2026-05-25 10:17:08 DEBUG file upload attempt by alice from 172.16.4.20
+2026-05-25 10:14:43 INFO suspicious request to /metrics from 100.64.12.7
+2026-05-25 10:21:01 ERROR user eve changed password
+2026-05-25 10:10:41 ERROR user victor logged in from 172.17.0.2
+2026-05-25 10:09:39 ERROR queue worker processed 225 jobs
+2026-05-25 10:09:01 INFO API token used by bob from 10.0.0.5
+2026-05-25 10:28:31 INFO VPN session established for wendy from 169.254.10.20
+2026-05-25 10:15:01 INFO disk usage check completed
+2026-05-25 10:16:49 INFO failed password for victor from 10.20.30.40
+2026-05-25 10:09:55 DEBUG file upload attempt by mallory from 10.20.30.40
+2026-05-25 10:31:27 INFO API token used by wendy from 10.20.30.40
+2026-05-25 10:28:49 INFO VPN session established for oscar from 1.1.1.1
+2026-05-25 10:10:51 DEBUG service nginx started
+2026-05-25 10:14:19 INFO API token used by trent from 10.0.0.8
+2026-05-25 10:22:58 INFO service postgresql restarted
+2026-05-25 10:14:29 ERROR service docker started
+2026-05-25 10:34:20 INFO package update check completed
+2026-05-25 10:45:31 INFO healthcheck returned ok
+2026-05-25 10:46:00 INFO reverse proxy forwarded request from 100.64.12.7
+2026-05-25 10:21:21 INFO connection timeout from 192.168.1.25
+2026-05-25 10:39:04 ERROR failed password for diana from 192.168.1.11
+2026-05-25 10:41:23 WARN configuration reload requested
+2026-05-25 10:40:51 WARN database connection opened from 192.168.1.10
+2026-05-25 10:55:13 INFO user diana changed password
+2026-05-25 10:17:17 INFO service firewalld stopped
+2026-05-25 10:55:07 ERROR failed password for eve from 172.16.4.20
+2026-05-25 10:58:31 INFO API token used by diana from 172.16.4.20
+2026-05-25 10:34:41 ERROR user bob changed password
+2026-05-25 10:24:37 INFO backup completed
+2026-05-25 10:20:19 WARN TLS certificate check passed
+2026-05-25 10:27:15 INFO connection timeout from 10.10.14.2
+2026-05-25 10:24:13 WARN suspicious request to /admin from 10.20.30.40
+2026-05-25 10:31:31 INFO service docker stopped
+2026-05-25 10:25:19 INFO accepted publickey for trent from 203.0.113.15
+2026-05-25 10:38:24 WARN accepted publickey for oscar from 192.168.1.25
+2026-05-25 10:51:13 INFO configuration reload requested
+2026-05-25 10:34:19 DEBUG VPN session established for alice from 1.1.1.1
+2026-05-25 10:50:01 DEBUG user bob logged in from 10.10.14.2
+2026-05-25 11:03:46 DEBUG file upload attempt by victor from 1.1.1.1
+2026-05-25 10:53:45 WARN package update check completed
+2026-05-25 10:53:54 INFO VPN session established for charlie from 8.8.8.8
+2026-05-25 10:37:49 INFO package update check completed
+2026-05-25 11:26:11 INFO service firewalld stopped
+2026-05-25 10:38:17 INFO configuration reload requested
+2026-05-25 10:45:37 INFO service ssh stopped
+2026-05-25 10:28:03 ERROR connection timeout from 198.51.100.42
+2026-05-25 10:37:23 INFO healthcheck returned ok
+2026-05-25 11:26:01 WARN reverse proxy forwarded request from 203.0.113.15
+2026-05-25 11:32:32 DEBUG reverse proxy forwarded request from 1.1.1.1
+2026-05-25 11:19:35 ERROR cache cleanup completed
+2026-05-25 10:57:46 INFO configuration reload requested
+2026-05-25 10:53:21 INFO blocked request from 10.0.0.5 to /admin
+2026-05-25 10:42:16 INFO service backup restarted
+2026-05-25 10:50:37 INFO service nginx restarted
+2026-05-25 11:12:36 INFO connection timeout from 256.256.256.256
+2026-05-25 11:32:57 INFO suspicious request to /upload from 8.8.8.8
+2026-05-25 11:30:52 DEBUG cache cleanup completed
+2026-05-25 10:26:51 INFO rate limit triggered for 172.16.4.20
+2026-05-25 10:55:38 INFO failed password for oscar from 172.16.4.20
+2026-05-25 11:36:01 INFO user mallory logged in from 192.168.1.11
+2026-05-25 11:02:04 INFO failed password for charlie from 198.51.100.42
+2026-05-25 11:53:29 INFO healthcheck returned ok
+2026-05-25 10:42:31 INFO configuration reload requested
+2026-05-25 11:57:49 DEBUG service ssh started
+2026-05-25 11:05:28 ERROR reverse proxy forwarded request from 192.168.1.11
+2026-05-25 11:36:13 INFO package update check completed
+2026-05-25 11:26:55 ERROR cache cleanup completed
+2026-05-25 11:12:01 DEBUG user trent changed password
+2026-05-25 11:08:52 INFO cache cleanup completed
+2026-05-25 11:32:57 INFO accepted publickey for mallory from 10.10.14.2
+2026-05-25 11:27:10 WARN connection timeout from 100.64.12.7
+2026-05-25 10:42:01 INFO user victor logged in from 198.51.100.42
+2026-05-25 10:43:56 INFO reverse proxy forwarded request from 172.31.255.10
+2026-05-25 12:04:43 DEBUG accepted publickey for victor from 203.0.113.15
+2026-05-25 11:15:25 WARN connection timeout from 10.0.0.8
+2026-05-25 11:58:49 WARN connection timeout from 192.168.1.77
+2026-05-25 11:24:34 INFO user alice logged in from 172.16.4.20
+2026-05-25 12:15:01 DEBUG API token used by trent from 999.10.10.10
+2026-05-25 12:02:52 INFO failed password for alice from 192.168.1.77
+2026-05-25 11:48:53 WARN accepted publickey for alice from 999.10.10.10
+2026-05-25 10:46:31 INFO service vpn stopped
+2026-05-25 12:14:45 DEBUG database connection opened from 172.16.4.21
+2026-05-25 10:42:46 ERROR disk usage check completed
+2026-05-25 11:07:13 INFO user oscar logged in from 198.51.100.42
+2026-05-25 11:19:14 INFO file upload attempt by trent from 172.16.4.20
+2026-05-25 12:35:11 DEBUG scheduled job finished successfully
+2026-05-25 11:29:07 INFO configuration reload requested
+2026-05-25 12:06:41 WARN API token used by oscar from 169.254.10.20
+2026-05-25 10:50:31 ERROR connection timeout from 192.168.1.10
+2026-05-25 12:38:07 INFO reverse proxy forwarded request from 10.0.0.8
+2026-05-25 12:10:29 INFO user wendy changed password
+2026-05-25 12:04:49 WARN file upload attempt by charlie from 198.51.100.42
+2026-05-25 12:04:16 WARN backup completed
+2026-05-25 12:05:27 ERROR disk usage check completed
+2026-05-25 12:33:23 ERROR suspicious request to /status from 172.16.4.20
+2026-05-25 11:40:49 WARN suspicious request to /static/app.js from 10.20.30.40
+2026-05-25 11:47:12 WARN failed password for bob from 203.0.113.15
+2026-05-25 11:11:31 WARN connection timeout from 198.51.100.42
+2026-05-25 12:24:19 INFO blocked request from 192.168.1.25 to /admin
+2026-05-25 11:57:37 INFO cache cleanup completed
+2026-05-25 12:34:27 INFO TLS certificate check passed
+2026-05-25 12:09:13 INFO blocked request from 8.8.8.8 to /static/app.js
+2026-05-25 10:47:56 INFO user oscar logged in from 198.51.100.42
+2026-05-25 11:09:37 WARN API token used by bob from 100.64.12.7
+2026-05-25 10:40:58 INFO queue worker processed 87 jobs
+2026-05-25 12:17:41 ERROR TLS certificate check passed
+2026-05-25 10:47:37 INFO service ssh stopped
+2026-05-25 11:04:01 WARN rate limit triggered for 192.168.1.11
+2026-05-25 12:15:08 INFO failed password for oscar from 10.0.0.8
+2026-05-25 12:18:17 INFO configuration reload requested
+2026-05-25 12:39:55 INFO API token used by trent from 10.0.0.8
+2026-05-25 12:12:17 INFO package update check completed
+2026-05-25 12:48:46 INFO file upload attempt by mallory from 172.16.4.21
+2026-05-25 12:27:01 WARN connection timeout from 172.16.4.21
+2026-05-25 12:17:36 INFO API token used by eve from 192.168.1.11
+2026-05-25 10:51:13 ERROR connection timeout from 1.1.1.1
+2026-05-25 11:17:25 ERROR scheduled job finished successfully
+2026-05-25 11:52:41 DEBUG backup completed
+2026-05-25 11:22:59 INFO package update check completed
+2026-05-25 10:46:13 INFO file upload attempt by mallory from 8.8.8.8
+2026-05-25 12:28:32 INFO database connection opened from 172.17.0.2
+2026-05-25 11:47:13 WARN service cron restarted
+2026-05-25 10:54:01 INFO API token used by bob from 10.0.0.5
+2026-05-25 12:31:53 ERROR package update check completed
+2026-05-25 11:13:05 WARN log rotation finished
+2026-05-25 11:55:01 INFO configuration reload requested
+2026-05-25 11:41:57 DEBUG service postgresql restarted
+2026-05-25 11:00:41 INFO service vpn stopped
+2026-05-25 13:31:31 INFO accepted publickey for diana from 256.256.256.256
+2026-05-25 11:29:57 INFO user charlie changed password
+2026-05-25 11:59:11 INFO failed password for eve from 1.1.1.1
+2026-05-25 11:07:13 ERROR connection timeout from 203.0.113.15
+2026-05-25 11:00:26 DEBUG log rotation finished
+2026-05-25 12:52:47 INFO suspicious request to /api/v1/users from 172.17.0.2
+2026-05-25 11:08:37 WARN reverse proxy forwarded request from 8.8.8.8
+2026-05-25 12:20:37 WARN API token used by bob from 10.10.14.2
+2026-05-25 12:01:42 ERROR rate limit triggered for 172.17.0.2
+2026-05-25 12:10:01 INFO blocked request from 192.168.1.25 to /api/v1/users
+2026-05-25 11:20:33 INFO TLS certificate check passed
+2026-05-25 13:50:33 INFO accepted publickey for mallory from 172.16.4.21
+2026-05-25 12:45:46 INFO reverse proxy forwarded request from 192.168.1.77
+2026-05-25 12:51:59 INFO file upload attempt by diana from 256.256.256.256
+2026-05-25 13:55:06 DEBUG accepted publickey for eve from 172.16.4.20
+2026-05-25 12:43:49 INFO VPN session established for charlie from 192.168.1.25
+2026-05-25 11:00:12 INFO rate limit triggered for 172.17.0.2
+2026-05-25 12:35:23 ERROR scheduled job finished successfully
+2026-05-25 11:08:55 INFO configuration reload requested
+2026-05-25 12:05:21 INFO TLS certificate check passed
+2026-05-25 12:38:20 INFO connection timeout from 10.10.14.2
+2026-05-25 11:39:55 INFO scheduled job finished successfully
+2026-05-25 13:04:45 INFO VPN session established for victor from 8.8.8.8
+2026-05-25 11:08:21 INFO blocked request from 1.1.1.1 to /static/app.js
+2026-05-25 13:20:46 INFO VPN session established for mallory from 203.0.113.15
+2026-05-25 13:02:37 ERROR failed password for diana from 8.8.8.8
+2026-05-25 13:14:51 ERROR cache cleanup completed
+2026-05-25 11:35:13 INFO suspicious request to /admin from 10.20.30.40
+2026-05-25 12:26:29 WARN database connection opened from 203.0.113.15
+2026-05-25 14:26:21 DEBUG API token used by wendy from 172.17.0.2
+2026-05-25 11:19:49 WARN failed password for eve from 172.31.255.10
+2026-05-25 12:49:09 INFO database connection opened from 192.168.1.25
+2026-05-25 14:02:13 WARN database connection opened from 10.10.14.2
+2026-05-25 13:52:01 DEBUG file upload attempt by trent from 192.168.1.25
+2026-05-25 12:02:31 WARN rate limit triggered for 256.256.256.256
+2026-05-25 13:16:33 INFO user mallory changed password
+2026-05-25 11:34:25 INFO database connection opened from 172.17.0.2
+2026-05-25 11:52:45 INFO TLS certificate check passed
+2026-05-25 13:22:53 INFO user charlie changed password
+2026-05-25 11:06:01 INFO suspicious request to /health from 10.10.14.2
+2026-05-25 11:57:40 ERROR file upload attempt by bob from 100.64.12.7
+2026-05-25 13:11:07 WARN service docker started
+2026-05-25 12:05:04 INFO service ssh stopped
+2026-05-25 13:56:09 INFO API token used by trent from 999.10.10.10
+2026-05-25 12:52:41 INFO service redis started
+2026-05-25 12:41:13 INFO failed password for mallory from 100.64.12.7
+2026-05-25 12:54:33 INFO connection timeout from 1.1.1.1
+2026-05-25 14:01:17 DEBUG disk usage check completed
+2026-05-25 13:37:22 INFO scheduled job finished successfully
+2026-05-25 11:57:11 DEBUG user trent logged in from 203.0.113.15
+2026-05-25 11:35:31 INFO failed password for charlie from 100.64.12.7
+2026-05-25 12:59:13 INFO failed password for diana from 203.0.113.15
+2026-05-25 14:27:00 INFO blocked request from 10.0.0.5 to /status
+2026-05-25 11:04:41 INFO user oscar changed password
+2026-05-25 11:31:01 INFO log rotation finished
+2026-05-25 11:21:41 DEBUG disk usage check completed
+2026-05-25 11:48:22 ERROR user mallory changed password
+2026-05-25 12:18:37 WARN service redis stopped
+2026-05-25 14:18:43 INFO blocked request from 172.16.4.21 to /upload
+2026-05-25 14:56:41 INFO file upload attempt by diana from 192.168.1.11
+2026-05-25 13:27:43 ERROR suspicious request to /health from 8.8.8.8
+2026-05-25 14:39:27 INFO package update check completed
+2026-05-25 12:25:30 INFO database connection opened from 172.16.4.21
+2026-05-25 14:11:37 INFO accepted publickey for trent from 256.256.256.256
+2026-05-25 11:32:16 WARN database connection opened from 192.168.1.10
+2026-05-25 14:20:57 INFO database connection opened from 999.10.10.10
+2026-05-25 12:14:34 DEBUG TLS certificate check passed
+2026-05-25 13:48:49 WARN reverse proxy forwarded request from 10.0.0.8
+2026-05-25 14:00:22 INFO healthcheck returned ok
+2026-05-25 14:47:01 INFO file upload attempt by bob from 203.0.113.15
+2026-05-25 13:31:01 WARN scheduled job finished successfully
+2026-05-25 12:28:25 INFO log rotation finished
+2026-05-25 11:21:40 WARN failed password for trent from 256.256.256.256
+2026-05-25 11:39:53 DEBUG database connection opened from 1.1.1.1
+2026-05-25 11:43:56 INFO suspicious request to /health from 100.64.12.7
+2026-05-25 15:24:01 INFO backup completed
+2026-05-25 15:11:03 INFO accepted publickey for mallory from 100.64.12.7
+2026-05-25 11:49:01 WARN reverse proxy forwarded request from 172.16.4.21
+2026-05-25 11:53:10 INFO database connection opened from 256.256.256.256
+2026-05-25 13:51:01 WARN cache cleanup completed
+2026-05-25 12:49:27 INFO configuration reload requested
+2026-05-25 14:59:43 ERROR user oscar logged in from 192.168.1.25
+2026-05-25 12:28:41 INFO VPN session established for diana from 10.0.0.5
+2026-05-25 13:44:01 ERROR backup completed
+2026-05-25 13:45:01 INFO accepted publickey for trent from 192.168.1.77
+2026-05-25 14:19:55 INFO service backup stopped
+2026-05-25 12:31:21 INFO blocked request from 192.168.1.10 to /health
+2026-05-25 15:19:13 INFO API token used by wendy from 192.168.1.11
+2026-05-25 15:05:21 INFO rate limit triggered for 172.16.4.20
+2026-05-25 14:32:11 INFO accepted publickey for wendy from 172.31.255.10
+2026-05-25 11:51:40 INFO suspicious request to /static/app.js from 256.256.256.256
+2026-05-25 12:03:45 ERROR database connection opened from 10.0.0.5
+2026-05-25 15:30:06 INFO API token used by alice from 198.51.100.42
+2026-05-25 12:32:07 INFO queue worker processed 101 jobs
+2026-05-25 13:47:11 INFO API token used by victor from 999.10.10.10
+2026-05-25 11:26:33 WARN API token used by oscar from 192.168.1.10
+2026-05-25 13:29:22 ERROR log rotation finished
+2026-05-25 12:42:39 WARN VPN session established for oscar from 192.168.1.11
+2026-05-25 12:15:27 INFO reverse proxy forwarded request from 10.10.14.2
+2026-05-25 15:20:01 ERROR user alice changed password
+2026-05-25 15:25:22 INFO rate limit triggered for 172.17.0.2
+2026-05-25 13:33:47 INFO configuration reload requested
+2026-05-25 13:46:49 WARN temporary file cleanup finished
+2026-05-25 13:43:41 WARN suspicious request to /download from 172.31.255.10
+2026-05-25 13:52:46 DEBUG API token used by bob from 172.16.4.20
+2026-05-25 13:12:43 INFO VPN session established for victor from 192.168.1.77
+2026-05-25 16:31:06 INFO blocked request from 192.168.1.11 to /status
+2026-05-25 14:16:17 INFO cache cleanup completed
+2026-05-25 15:32:01 INFO failed password for eve from 192.168.1.11
+2026-05-25 16:27:31 ERROR user alice logged in from 10.0.0.8
+2026-05-25 14:52:51 INFO queue worker processed 146 jobs
+2026-05-25 12:18:37 INFO scheduled job finished successfully
+2026-05-25 15:54:13 INFO accepted publickey for bob from 203.0.113.15
+2026-05-25 13:02:03 INFO file upload attempt by eve from 10.0.0.8
+2026-05-25 15:01:46 INFO log rotation finished
+2026-05-25 14:20:17 INFO user oscar changed password
+2026-05-25 14:08:27 WARN failed password for eve from 192.168.1.11
+2026-05-25 15:39:43 INFO database connection opened from 172.16.4.21
+2026-05-25 13:27:13 INFO VPN session established for charlie from 172.31.255.10
+2026-05-25 16:30:01 ERROR log rotation finished
+2026-05-25 16:18:28 INFO TLS certificate check passed
+2026-05-25 13:16:31 INFO connection timeout from 192.168.1.77
+2026-05-25 16:52:03 ERROR blocked request from 10.0.0.5 to /health
+2026-05-25 15:43:13 WARN user eve logged in from 172.16.4.20
+2026-05-25 13:27:36 INFO failed password for mallory from 192.168.1.11
+2026-05-25 15:54:41 INFO blocked request from 8.8.8.8 to /upload
+2026-05-25 15:02:37 DEBUG reverse proxy forwarded request from 192.168.1.77
+2026-05-25 15:12:41 WARN file upload attempt by diana from 172.16.4.21
+2026-05-25 16:39:02 INFO accepted publickey for diana from 172.31.255.10
+2026-05-25 13:18:01 WARN temporary file cleanup finished
+2026-05-25 11:39:23 INFO VPN session established for wendy from 256.256.256.256
+2026-05-25 11:57:53 INFO user trent logged in from 10.10.14.2
+2026-05-25 12:48:22 INFO file upload attempt by wendy from 256.256.256.256
+2026-05-25 14:38:35 ERROR user victor logged in from 172.16.4.21
+2026-05-25 16:57:06 ERROR user charlie changed password
+2026-05-25 15:12:49 INFO scheduled job finished successfully
+2026-05-25 16:46:17 ERROR blocked request from 192.168.1.11 to /health
+2026-05-25 15:38:15 INFO failed password for diana from 172.17.0.2
+2026-05-25 15:58:04 INFO queue worker processed 173 jobs
+2026-05-25 11:56:41 INFO service systemd started
+2026-05-25 14:50:23 DEBUG connection timeout from 198.51.100.42
+2026-05-25 13:36:13 INFO file upload attempt by mallory from 203.0.113.15
+2026-05-25 15:06:36 INFO rate limit triggered for 198.51.100.42
+2026-05-25 13:37:45 INFO reverse proxy forwarded request from 192.168.1.10
+2026-05-25 17:26:31 INFO database connection opened from 10.20.30.40
+2026-05-25 14:03:07 WARN suspicious request to /health from 198.51.100.42
+2026-05-25 15:10:56 WARN user trent logged in from 192.168.1.11
+2026-05-25 12:19:13 WARN healthcheck returned ok
+2026-05-25 13:07:52 INFO API token used by mallory from 256.256.256.256
+2026-05-25 16:36:21 INFO accepted publickey for oscar from 100.64.12.7
+2026-05-25 17:06:49 INFO scheduled job finished successfully
+2026-05-25 14:03:21 INFO blocked request from 192.168.1.25 to /download
+2026-05-25 16:20:55 DEBUG blocked request from 192.168.1.11 to /api/v1/users
+2026-05-25 15:33:13 INFO blocked request from 198.51.100.42 to /api/v1/users
+2026-05-25 15:04:51 ERROR VPN session established for bob from 10.20.30.40
+2026-05-25 17:33:53 INFO user bob logged in from 999.10.10.10
+2026-05-25 13:27:55 INFO backup completed
+2026-05-25 14:48:05 INFO VPN session established for oscar from 8.8.8.8
+2026-05-25 13:04:24 WARN package update check completed
+2026-05-25 14:05:01 INFO cache cleanup completed
+2026-05-25 14:30:55 INFO scheduled job finished successfully
+2026-05-25 17:53:09 INFO configuration reload requested
+2026-05-25 13:16:58 ERROR failed password for charlie from 172.31.255.10
+2026-05-25 11:41:21 INFO package update check completed
+2026-05-25 16:31:26 INFO failed password for bob from 172.31.255.10
+2026-05-25 15:11:07 INFO disk usage check completed
+2026-05-25 17:55:52 WARN API token used by charlie from 172.16.4.21
+2026-05-25 13:15:05 INFO accepted publickey for oscar from 192.168.1.25
+2026-05-25 14:22:40 INFO configuration reload requested
+2026-05-25 11:43:21 INFO package update check completed
+2026-05-25 13:11:48 WARN blocked request from 10.0.0.8 to /upload
+2026-05-25 15:12:01 WARN accepted publickey for trent from 172.17.0.2
+2026-05-25 16:05:11 DEBUG reverse proxy forwarded request from 10.0.0.8
+2026-05-25 12:00:23 INFO service firewalld started
+2026-05-25 16:18:01 INFO package update check completed
+2026-05-25 15:58:09 DEBUG VPN session established for trent from 169.254.10.20
+2026-05-25 16:25:42 ERROR connection timeout from 192.168.1.25
+2026-05-25 15:44:31 WARN user wendy logged in from 1.1.1.1
+2026-05-25 12:50:09 INFO API token used by victor from 999.10.10.10
+2026-05-25 15:57:21 ERROR API token used by wendy from 172.31.255.10
+2026-05-25 12:56:34 DEBUG rate limit triggered for 172.31.255.10
+2026-05-25 16:58:37 INFO healthcheck returned ok
+2026-05-25 16:54:32 INFO suspicious request to /upload from 192.168.1.77
+2026-05-25 14:35:25 WARN blocked request from 203.0.113.15 to /download
+2026-05-25 13:52:56 WARN database connection opened from 10.10.14.2
+2026-05-25 16:42:05 WARN reverse proxy forwarded request from 999.10.10.10
+2026-05-25 13:54:22 INFO file upload attempt by bob from 100.64.12.7
+2026-05-25 15:28:01 WARN API token used by wendy from 172.31.255.10
+2026-05-25 13:50:19 WARN scheduled job finished successfully
+2026-05-25 15:30:01 INFO blocked request from 100.64.12.7 to /admin
+2026-05-25 13:24:08 INFO API token used by trent from 169.254.10.20
+2026-05-25 15:09:53 INFO user trent logged in from 172.31.255.10
+2026-05-25 17:35:07 ERROR API token used by victor from 1.1.1.1
+2026-05-25 16:46:23 INFO service postgresql stopped
+2026-05-25 14:28:01 INFO VPN session established for victor from 203.0.113.15
+2026-05-25 17:44:49 INFO user bob logged in from 172.31.255.10
+2026-05-25 17:06:53 DEBUG accepted publickey for bob from 192.168.1.11
+2026-05-25 16:00:33 INFO user bob changed password
+2026-05-25 16:58:07 INFO reverse proxy forwarded request from 999.10.10.10
+2026-05-25 15:11:41 INFO reverse proxy forwarded request from 172.16.4.20
+2026-05-25 13:01:53 ERROR suspicious request to /metrics from 10.0.0.5
+2026-05-25 14:50:43 INFO file upload attempt by diana from 10.0.0.5
+2026-05-25 15:08:43 INFO configuration reload requested
+2026-05-25 16:24:09 INFO file upload attempt by wendy from 203.0.113.15
+2026-05-25 16:13:46 ERROR configuration reload requested
+2026-05-25 15:51:47 INFO user wendy changed password
+2026-05-25 12:30:23 WARN API token used by trent from 10.0.0.8
+2026-05-25 11:56:01 INFO cache cleanup completed
+2026-05-25 16:23:55 INFO VPN session established for charlie from 172.16.4.21
+2026-05-25 14:45:51 INFO suspicious request to /status from 198.51.100.42
+2026-05-25 19:15:46 WARN blocked request from 192.168.1.77 to /upload
+2026-05-25 13:31:13 INFO accepted publickey for bob from 172.17.0.2
+2026-05-25 13:37:42 ERROR user charlie logged in from 100.64.12.7
+2026-05-25 14:01:55 WARN connection timeout from 203.0.113.15
+2026-05-25 13:03:26 INFO package update check completed
+2026-05-25 15:56:01 INFO healthcheck returned ok
+2026-05-25 15:33:13 WARN disk usage check completed
+2026-05-25 16:57:41 INFO API token used by diana from 192.168.1.77
+2026-05-25 12:53:32 DEBUG database connection opened from 8.8.8.8
+2026-05-25 17:18:01 WARN user trent logged in from 999.10.10.10
+2026-05-25 15:18:54 DEBUG blocked request from 100.64.12.7 to /metrics
+2026-05-25 17:26:29 INFO backup completed
+2026-05-25 15:56:58 DEBUG file upload attempt by charlie from 8.8.8.8
+2026-05-25 12:49:53 INFO blocked request from 192.168.1.25 to /status
+2026-05-25 13:26:51 WARN suspicious request to /api/v1/users from 192.168.1.10
+2026-05-25 12:08:07 DEBUG suspicious request to /metrics from 10.0.0.8
+2026-05-25 15:30:19 INFO backup completed
+2026-05-25 15:25:05 WARN service firewalld restarted
+2026-05-25 18:30:28 INFO healthcheck returned ok
+2026-05-25 13:29:41 INFO rate limit triggered for 192.168.1.11
+2026-05-25 17:06:40 INFO disk usage check completed
+2026-05-25 17:32:37 INFO cache cleanup completed
+2026-05-25 12:41:39 ERROR accepted publickey for alice from 203.0.113.15
+2026-05-25 16:07:47 WARN accepted publickey for alice from 172.16.4.21
+2026-05-25 15:18:46 WARN user trent logged in from 10.20.30.40
+2026-05-25 17:31:13 INFO VPN session established for alice from 8.8.8.8
+2026-05-25 16:10:44 INFO suspicious request to /health from 192.168.1.11
+2026-05-25 15:46:31 DEBUG VPN session established for victor from 203.0.113.15
+2026-05-25 13:09:31 INFO blocked request from 999.10.10.10 to /static/app.js
+2026-05-25 13:48:01 INFO accepted publickey for mallory from 172.17.0.2
+2026-05-25 15:11:10 INFO API token used by wendy from 192.168.1.77
+2026-05-25 18:22:59 INFO accepted publickey for mallory from 172.16.4.21
+2026-05-25 13:43:26 ERROR rate limit triggered for 10.10.14.2
+2026-05-25 14:03:13 INFO accepted publickey for mallory from 192.168.1.11
+2026-05-25 15:40:06 INFO backup completed
+2026-05-25 18:28:15 ERROR connection timeout from 10.20.30.40
+2026-05-25 17:37:58 WARN failed password for bob from 172.16.4.20
+2026-05-25 12:22:17 INFO service redis restarted
+2026-05-25 18:32:12 DEBUG file upload attempt by oscar from 192.168.1.10
+2026-05-25 18:01:01 INFO suspicious request to /metrics from 203.0.113.15
+2026-05-25 12:36:25 WARN service firewalld restarted
+2026-05-25 13:22:33 INFO user diana logged in from 169.254.10.20
+2026-05-25 17:25:25 INFO user victor changed password
+2026-05-25 17:33:07 INFO API token used by wendy from 172.16.4.20
+2026-05-25 19:32:46 WARN connection timeout from 10.20.30.40
+2026-05-25 15:56:25 ERROR suspicious request to /static/app.js from 8.8.8.8
+2026-05-25 14:37:55 INFO database connection opened from 172.31.255.10
+2026-05-25 20:10:17 DEBUG user trent logged in from 10.0.0.8
+2026-05-25 13:26:10 WARN database connection opened from 192.168.1.10
+2026-05-25 15:00:01 INFO queue worker processed 38 jobs
+2026-05-25 14:13:59 ERROR backup completed
+2026-05-25 17:02:07 INFO VPN session established for charlie from 172.17.0.2
+2026-05-25 20:11:14 DEBUG configuration reload requested
+2026-05-25 16:23:49 WARN database connection opened from 192.168.1.11
+2026-05-25 16:45:01 DEBUG user diana changed password
+2026-05-25 13:16:15 DEBUG accepted publickey for charlie from 203.0.113.15
+2026-05-25 15:12:03 INFO API token used by eve from 192.168.1.11
+2026-05-25 18:16:25 ERROR backup completed
+2026-05-25 19:12:10 WARN service redis started
+2026-05-25 12:44:01 INFO blocked request from 10.0.0.8 to /upload
+2026-05-25 14:34:01 INFO log rotation finished
+2026-05-25 12:37:57 WARN rate limit triggered for 192.168.1.11
+2026-05-25 15:16:39 INFO disk usage check completed
+2026-05-25 13:40:49 WARN blocked request from 172.31.255.10 to /login
+2026-05-25 13:34:26 WARN connection timeout from 192.168.1.77
+2026-05-25 14:44:17 DEBUG log rotation finished
+2026-05-25 16:08:22 INFO API token used by charlie from 172.31.255.10
+2026-05-25 12:54:11 INFO VPN session established for diana from 192.168.1.11
+2026-05-25 13:43:29 INFO user victor logged in from 10.20.30.40
+2026-05-25 18:03:01 INFO configuration reload requested
+2026-05-25 13:30:31 ERROR database connection opened from 100.64.12.7
+2026-05-25 14:27:17 ERROR user charlie logged in from 10.10.14.2
+2026-05-25 18:41:43 WARN VPN session established for diana from 172.16.4.20
+2026-05-25 13:17:53 WARN user victor logged in from 100.64.12.7
+2026-05-25 21:12:56 INFO database connection opened from 999.10.10.10
+2026-05-25 13:47:13 WARN package update check completed
+2026-05-25 16:17:12 INFO blocked request from 10.0.0.8 to /login
+2026-05-25 14:31:05 WARN disk usage check completed
+2026-05-25 13:05:55 DEBUG configuration reload requested
+2026-05-25 19:47:41 WARN service redis started
+2026-05-25 17:18:12 INFO blocked request from 10.10.14.2 to /health
+2026-05-25 19:50:25 ERROR healthcheck returned ok
+2026-05-25 20:06:13 ERROR connection timeout from 10.0.0.8
+2026-05-25 13:15:19 INFO API token used by mallory from 172.31.255.10
+2026-05-25 20:09:01 DEBUG API token used by alice from 198.51.100.42
+2026-05-25 15:05:13 INFO temporary file cleanup finished
+2026-05-25 16:26:02 WARN service nginx started
+2026-05-25 21:18:55 INFO package update check completed
+2026-05-25 20:21:56 ERROR user alice logged in from 10.0.0.8
+2026-05-25 15:52:01 ERROR rate limit triggered for 8.8.8.8
+2026-05-25 19:33:19 INFO user victor logged in from 999.10.10.10
+2026-05-25 20:26:11 DEBUG configuration reload requested
+2026-05-25 14:03:40 INFO VPN session established for eve from 172.16.4.20
+2026-05-25 17:09:13 INFO rate limit triggered for 8.8.8.8
+2026-05-25 14:34:26 WARN healthcheck returned ok
+2026-05-25 12:58:25 DEBUG API token used by diana from 169.254.10.20
+2026-05-25 18:04:16 ERROR suspicious request to /metrics from 192.168.1.77
+2026-05-25 16:35:45 WARN disk usage check completed
+2026-05-25 17:21:32 ERROR failed password for mallory from 172.16.4.21
+2026-05-25 20:00:01 WARN connection timeout from 198.51.100.42
+2026-05-25 20:31:25 WARN suspicious request to /download from 192.168.1.11
+2026-05-25 14:38:45 INFO healthcheck returned ok
+2026-05-25 15:24:40 INFO configuration reload requested
+2026-05-25 15:48:05 INFO package update check completed
+2026-05-25 19:21:11 DEBUG VPN session established for oscar from 169.254.10.20
+2026-05-25 18:29:13 ERROR healthcheck returned ok
+2026-05-25 16:28:28 ERROR database connection opened from 8.8.8.8
+2026-05-25 17:30:23 ERROR reverse proxy forwarded request from 100.64.12.7
+2026-05-25 18:01:58 WARN connection timeout from 172.31.255.10
+2026-05-25 15:14:21 DEBUG scheduled job finished successfully
+2026-05-25 16:01:08 WARN temporary file cleanup finished
+2026-05-25 16:40:25 WARN healthcheck returned ok
+2026-05-25 14:22:23 INFO VPN session established for victor from 10.0.0.5
+2026-05-25 12:42:25 WARN suspicious request to /static/app.js from 256.256.256.256
+2026-05-25 19:25:46 INFO backup completed
+2026-05-25 20:44:39 INFO blocked request from 172.31.255.10 to /status
+2026-05-25 17:23:40 INFO user diana logged in from 10.20.30.40
+2026-05-25 14:01:49 ERROR healthcheck returned ok
+2026-05-25 14:10:09 WARN backup completed
+2026-05-25 15:29:01 ERROR service backup started
+2026-05-25 13:16:16 INFO database connection opened from 203.0.113.15
+2026-05-25 17:04:49 INFO log rotation finished
+2026-05-25 17:05:43 WARN healthcheck returned ok
+2026-05-25 13:33:19 ERROR queue worker processed 206 jobs
+2026-05-25 20:01:41 INFO API token used by mallory from 10.0.0.5
+2026-05-25 14:29:45 INFO service cron started
+2026-05-25 21:31:40 WARN healthcheck returned ok
+2026-05-25 14:14:57 WARN reverse proxy forwarded request from 10.0.0.5
+2026-05-25 13:27:35 DEBUG API token used by victor from 10.0.0.8
+2026-05-25 18:08:01 DEBUG blocked request from 169.254.10.20 to /status
+2026-05-25 19:29:12 INFO log rotation finished
+2026-05-25 20:18:35 DEBUG reverse proxy forwarded request from 1.1.1.1
+2026-05-25 22:04:31 INFO connection timeout from 100.64.12.7
+2026-05-25 20:29:13 INFO service ssh stopped
+2026-05-25 20:46:41 INFO user trent changed password
+2026-05-25 18:46:31 DEBUG backup completed
+2026-05-25 13:22:56 INFO disk usage check completed
+2026-05-25 14:44:41 INFO package update check completed
+2026-05-25 13:23:46 ERROR queue worker processed 169 jobs
+2026-05-25 21:26:01 INFO database connection opened from 1.1.1.1
+2026-05-25 21:02:52 ERROR package update check completed
+2026-05-25 18:20:13 INFO rate limit triggered for 8.8.8.8
+2026-05-25 17:48:22 INFO VPN session established for oscar from 172.16.4.21
+2026-05-25 22:21:01 WARN healthcheck returned ok
+2026-05-25 17:50:16 DEBUG cache cleanup completed
+2026-05-25 18:24:17 ERROR cache cleanup completed
+2026-05-25 20:04:42 ERROR backup completed
+2026-05-25 13:10:55 INFO file upload attempt by alice from 10.0.0.8
+2026-05-25 17:12:29 INFO API token used by eve from 192.168.1.11

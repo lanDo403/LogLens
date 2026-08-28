@@ -1,0 +1,6 @@
+2026-05-25 10:00:01 INFO user alice logged in from 192.168.1.10
+2026-05-25 10:01:15 ERROR failed password for bob from 10.0.0.5
+2026-05-25 10:02:41 INFO service nginx restarted
+2026-05-25 10:04:02 WARN suspicious request from 172.16.4.20
+2026-05-25 10:05:33 ERROR connection timeout from 10.0.0.5
+2026-05-25 10:06:11 INFO backup completed
